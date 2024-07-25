@@ -1,16 +1,25 @@
 # lecture_6
 
-A new Flutter project.
+Lecture#6 of the Flutter GDSC Summer Camp 2024.
 
-## Getting Started
+## Topics Covered
 
-This project is a starting point for a Flutter application.
+* State Management
+* Provider Package
+* Ecommerce Application
 
-A few resources to get you started if this is your first Flutter project:
+## Links
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Video Recording](https://colorlib.com/wp/wp-content/uploads/sites/2/ComingSoon_v4.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Author
+
+- [Saad Bin Khalid](https://saadbinkhalid.com)
+
+
+![Products](./screenshots/products.png)
+
+## Cart
+
+![Cart](./screenshots/cart.png)
